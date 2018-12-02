@@ -9,3 +9,4 @@ En este repo estan agrupados ejercicios resueltos de Paradigmas de Programación
 | ForoBardo | [foroBardo](https://github.com/juancuiule/foroBardo) |
 | Gameflix  | [gameflix](https://github.com/redwarewolf/gameflix)  |
 | Jalogüin  | [jaloguin](https://github.com/juancuiule/jaloguin)   |
+| Parcial Piratas | [piratas](https://github.com/gonziesc/PDEP-Parcial-Piratas/) |
